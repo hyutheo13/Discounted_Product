@@ -1,6 +1,5 @@
 #pragma once
-#include "Product(test).h"
-//#include "Product.h"
+#include "Product.h"
 #include <string>
 
 class DiscountedProduct : public Product {
